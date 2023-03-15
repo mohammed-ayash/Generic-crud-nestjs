@@ -1,0 +1,24 @@
+{
+  "name": "generic-curd-nestjs",
+  "version": "1.0.0",
+  "description": "Implement Abstruct CRUD Controller, Service, Repository, Entity",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@nestjs/common": "^9.0.0",
+    "@nestjs/swagger": "^6.1.4",
+    "@nestjs/typeorm": "^9.0.1",
+    "class-validator": "^0.13.2",
+    "typeorm": "^0.3.11"
+  },
+  "keywords": [
+    "nestjs",
+    "generic",
+    "crud",
+    "typeorm"
+  ],
+  "author": "Mohammed Ayash <mohammed.ayash998@gmail.com>",
+  "license": "ISC"
+}
